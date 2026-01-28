@@ -3,6 +3,11 @@
 This project is a simple campaign management system built as part of the Full Stack Developer demo task.
 It allows users to manage marketing campaigns, view basic analytics, and see data from a third party API.
 
+## Live URLs
+
+- **Frontend:** https://frontend-assignment.nimje.org
+- **Backend:** https://backend-assignment.nimje.org
+
 ## Frontend Setup (Next.js)
 
 ### Installation
